@@ -1,0 +1,25 @@
+﻿@font-face {
+    font-family: 'YiSunShin Dotum M';
+    src: url('YiSunShinDotumM.eot');
+    src: local('YiSunShin Dotum M'), local('YiSunShinDotumM'),
+        url('YiSunShinDotumM.eot?#iefix') format('embedded-opentype'),
+        url('YiSunShinDotumM.woff2') format('woff2'),
+        url('YiSunShinDotumM.woff') format('woff'),
+        url('YiSunShinDotumM.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'YiSunShin Dotum L';
+    src: url('YiSunShinDotumL.eot');
+    src: local('YiSunShin Dotum L'), local('YiSunShinDotumL'),
+        url('YiSunShinDotumL.eot?#iefix') format('embedded-opentype'),
+        url('YiSunShinDotumL.woff2') format('woff2'),
+        url('YiSunShinDotumL.woff') format('woff'),
+        url('YiSunShinDotumL.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
