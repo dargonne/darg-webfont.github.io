@@ -1,0 +1,25 @@
+﻿@font-face {
+    font-family: 'S-Core Dream 4';
+    src: url('S-CoreDream-4Regular.eot');
+    src: local('S-Core Dream 4 Regular'), local('S-CoreDream-4Regular'),
+        url('S-CoreDream-4Regular.eot?#iefix') format('embedded-opentype'),
+        url('S-CoreDream-4Regular.woff2') format('woff2'),
+        url('S-CoreDream-4Regular.woff') format('woff'),
+        url('S-CoreDream-4Regular.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'S-Core Dream 6';
+    src: url('S-CoreDream-6Bold.eot');
+    src: local('S-Core Dream 6 Bold'), local('S-CoreDream-6Bold'),
+        url('S-CoreDream-6Bold.eot?#iefix') format('embedded-opentype'),
+        url('S-CoreDream-6Bold.woff2') format('woff2'),
+        url('S-CoreDream-6Bold.woff') format('woff'),
+        url('S-CoreDream-6Bold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+
